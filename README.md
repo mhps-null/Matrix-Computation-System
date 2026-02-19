@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="60%"/>
+  <img src="logo.jpeg" width="60%"/>
 </p>
 
 This template is the starter file structure for Tubes 1 Algeo 2025/2026. This template is a Java project using Maven Build tool with JavaFX GUI already configured in pom.xml.
